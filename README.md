@@ -34,23 +34,35 @@ These are the technologies used:
 ### Features
 
 - [x] User Registration
+- [x] User Autentication
 <br></br>
 
 
 ![abertura1](https://user-images.githubusercontent.com/83052668/117242398-8db11c80-ae0b-11eb-8be5-720020225f47.png)
+![login1](https://user-images.githubusercontent.com/83052668/117242910-96eeb900-ae0c-11eb-8622-fc40527fd2ad.png)
 ![register1](https://user-images.githubusercontent.com/83052668/117242869-7fafcb80-ae0c-11eb-8542-e5e398cddc2e.png)
 
 <br></br>
 
-- [x] User Autentication
-<br></br>
 
-![login1](https://user-images.githubusercontent.com/83052668/117242910-96eeb900-ae0c-11eb-8622-fc40527fd2ad.png)
-
-<h3 align="center"> Fully functional screens with treatments for the most common errors </h3>
+<h3 align="center"> Fully functional screens with treatments for the most common errors. </h3>
 
 <br></br>
 - [x] Interactive list with recyclerView
 <br></br>
+
 ![lista1](https://user-images.githubusercontent.com/83052668/117245364-21d1b280-ae11-11eb-8af6-8faabf8314fc.png)
 ![info2](https://user-images.githubusercontent.com/83052668/117245623-83921c80-ae11-11eb-9513-24d18cdc5eac.png)
+
+<br></br>
+
+- [x] Video player seted, prepared to watch the epiosodes.
+<br></br>
+
+![player1](https://user-images.githubusercontent.com/83052668/117245862-eedbee80-ae11-11eb-8435-f66339d2ac2a.png)
+<br></br>
+
+<h2> 
+	🚧  Under development  🚧
+</h2>
+<h3> ✍️I learn more every day to improve my knowledge. 🧑‍💻Just waiting for the opportunity to work in this filed. </h3>
