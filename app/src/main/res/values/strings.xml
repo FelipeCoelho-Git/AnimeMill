@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimeMill</string>
+    <string name="register_info">Informe seu email e senha para iniciar uma conta.</string>
+    <string name="creat">Crie sua conta.</string>
+    <string name="field">Preencha todos os campos</string>
+    <string name="Horymia">Horimiya</string>
+    <string name="HorimiyaSinopse">Embora seja admirada na escola por sua amabilidade e proeza acadêmica, a estudante Kyouko Hori esconde outro lado dela.</string>
+    <string name="tags">Comédia, Escolar, Romance, Shounen, Slice of Life</string>
+</resources>
