@@ -39,7 +39,7 @@ These are the technologies used:
 
 
 ![abertura1](https://user-images.githubusercontent.com/83052668/117242398-8db11c80-ae0b-11eb-8be5-720020225f47.png)
-![login1](https://user-images.githubusercontent.com/83052668/117242910-96eeb900-ae0c-11eb-8622-fc40527fd2ad.png)
+![Captura de tela 2021-05-10 162936](https://user-images.githubusercontent.com/83052668/117714232-01a54900-b1ad-11eb-9033-785b9077c2b0.png)
 ![register1](https://user-images.githubusercontent.com/83052668/117242869-7fafcb80-ae0c-11eb-8542-e5e398cddc2e.png)
 
 <br></br>
